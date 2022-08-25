@@ -133,7 +133,7 @@ _default_options_objects = [
     },
     {
         'name': 'THREADS',
-        'default_value': 4,
+        'default_value': 12,
         'value_type': 'int'
     },
     {
@@ -148,7 +148,7 @@ _default_options_objects = [
     },
     {
         'name': 'DISABLE_WEB_UI',
-        'default_value': False,
+        'default_value': True,
         'value_type': 'bool'
     },
 ]

@@ -1,6 +1,6 @@
 FROM python:3.8.12-slim-bullseye
 
-ARG with_models=false
+ARG with_models=true
 ARG models=
 
 WORKDIR /app
